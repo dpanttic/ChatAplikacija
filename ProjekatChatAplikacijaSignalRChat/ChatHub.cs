@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNet.SignalR;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -28,3 +29,21 @@ namespace ProjekatChatAplikacijaSignalRChat
         }
     }
 }
+=======
+using Microsoft.AspNet.SignalR;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace ProjekatChatAplikacijaSignalRChat
+{
+    public class ChatHub : Hub
+    {
+        public void Send(string name, string message)
+        {
+            Clients.All.broadcastMessage(name, message);
+        }
+    }
+}
+>>>>>>> faf3af7d553bbbc30d622d46884f0fa16f7dfd6e
