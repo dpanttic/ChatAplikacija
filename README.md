@@ -1,4 +1,7 @@
 # ChatAplikacija
+
+U SLUČAJU NEISPRAVNOG FUNKCIONISANJA PROJEKTA, PREUZETI PROJEKAT KOMMITOVAN 1.JUNA.
+
 ![wedf](https://github.com/dpanttic/ChatAplikacija/assets/93747201/b839f29f-d354-4c83-9a1c-5436ae11a503)
 ![image](https://github.com/dpanttic/ChatAplikacija/assets/93747201/fb9fb8fc-2966-4bbb-afdb-cc803d7b2d73)
 ![image](https://github.com/dpanttic/ChatAplikacija/assets/93747201/b1622e02-d61d-456d-a7d8-4c22ace97da1)
